@@ -49,6 +49,7 @@
     "url": "https://github.com/alibaba/BizCharts/issues"
   },
   "homepage": "https://alibaba.github.io/BizCharts/",
+  "types": "./typings/index.d.ts",
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0"
   },
